@@ -1,0 +1,18 @@
+.mainContainer {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  /* background-color: rgb(55, 241, 133); */
+  /* border:1px solid black; */
+  padding:5px;
+  /* flex-wrap:wrap;
+  justify-content: center; */
+}
+
+@media only screen and (max-width:700px){
+  .mainContainer{
+    flex-wrap: wrap;
+  }
+}
+
+

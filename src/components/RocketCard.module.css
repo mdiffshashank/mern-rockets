@@ -1,0 +1,39 @@
+.h3{
+    font-size:12px;
+    margin:5px;
+}
+
+.rocketCard {
+  /* flex-basis: 220px; */
+  width:220px;
+  height: 350px;
+  background-color: white;
+  margin: 20px 20px 0px 20px;
+  border-radius: 2%;
+  padding: 10px;
+  /* align-items: center; */
+}
+
+.rocketImgBody {
+  height: 50%;
+  background-color: rgb(236, 236, 236);
+}
+
+.rocketImg{
+  padding:5px;
+  width:80%;
+  height:80%;
+  /* background-color: white; */
+}
+
+.rocketData {
+  /* width: 100px; */
+  height: 50%;
+  padding:5px;
+  text-align: left;
+  
+}
+
+.blue{
+  color:rgb(118, 118, 250);
+}
